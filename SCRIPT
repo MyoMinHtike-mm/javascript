@@ -6,22 +6,37 @@
 <head>
 
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, intital-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Javascript</title>
   
 </head>
 
 <body>
 
-  <h1>Javascript</h1>
+  <label>MYO MIN HTIKE</label>
+  
+  <contact>
+    <p>My email is myominhtike656@gmail.com</p>
+  </contact>
+  
   
   
 <script type="text/script">
   
-  var name='Myo Min Htike'
+  var name='Myo Min Htike';
   var age= 21;
   var gender='male';
-  console.log("I am" + name + " who is this me");
+  console.log("I am" + name + " who is this me" + "</br>"+ mydaily());
+  
+  
+  function mydaily(
+    learning();
+    coding();
+    guitar();
+    eating();
+    sleeping()'
+  
+  )
   
   
 </script>
